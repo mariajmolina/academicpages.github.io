@@ -11,21 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Earth and Ecosystem Science Doctoral Program, Central Michigan University, 2019
+* M.A. in Climate and Society, Columbia University, 2015
+* B.S. in Meteorology, Honors in the Major, Minors in Mathematics and Communications, Florida State University, 2008
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2020: Project Scientist I
+  * National Center for Atmospheric Research, Boulder, CO
+  * Climate and Global Dynamics Laboratory
+  * Climate Change Research Section
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2020-August 2020: Research Intern
+  * Frontier Development Lab, Mountain View, CA
+  
+* August 2019-August 2020: Advanced Study Program Postdoctoral Fellow
+  * National Center for Atmospheric Research, Boulder, CO
+  * Computational and Information Systems Lab and Mesoscale and Microscale Meteorology Lab
   
 Skills
 ======
