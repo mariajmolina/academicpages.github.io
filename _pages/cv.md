@@ -17,15 +17,15 @@ Education
 
 Work experience
 ======
-* August 2020: Project Scientist I
+* August 2020--Present: Project Scientist I
   * National Center for Atmospheric Research, Boulder, CO
   * Climate and Global Dynamics Laboratory
   * Climate Change Research Section
 
-* June 2020-August 2020: Research Intern
+* June 2020--August 2020: Research Intern
   * Frontier Development Lab, Mountain View, CA
   
-* August 2019-August 2020: Advanced Study Program Postdoctoral Fellow
+* August 2019--August 2020: Advanced Study Program Postdoctoral Fellow
   * National Center for Atmospheric Research, Boulder, CO
   * Computational and Information Systems Lab and Mesoscale and Microscale Meteorology Lab
   
