@@ -43,14 +43,13 @@ Work experience
 * August 2008 -- August 2009: **Earth and Space Science Middle School Teacher**
   * North Broward Academy of Excellence, North Lauderdale, FL
   
-Skills
+Select skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python programming
+* Television, radio, and presentation communications
+* Weather Research and Forecasting (WRF) model
+* NOAA HYSPLIT model
+* For complete list of skills, see full CV.
 
 Publications
 ======
