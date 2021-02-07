@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+**[PDF CV](https://staff.ucar.edu/sites/default/files/CVs/MolinaCV.docx%20%281%29.pdf)**:
+
 Education
 ======
 * Ph.D. in Earth and Ecosystem Science Doctoral Program, Central Michigan University, 2019
