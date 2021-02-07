@@ -49,7 +49,6 @@ Select skills
 * Television, radio, and presentation communications
 * Weather Research and Forecasting (WRF) model
 * NOAA HYSPLIT model
-* For complete list of skills, see full CV.
 
 Publications
 ======
@@ -61,12 +60,6 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Select service and leadership
