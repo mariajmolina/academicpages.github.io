@@ -17,31 +17,30 @@ Education
 
 Work experience
 ======
-* August 2020 -- Present: Project Scientist I
+* August 2020 -- Present: **Project Scientist I**
   * National Center for Atmospheric Research, Boulder, CO
-  * Climate and Global Dynamics Laboratory
-  * Climate Change Research Section
+  * _Climate and Global Dynamics Laboratory, Climate Change Research Section_
 
-* June 2020 -- August 2020: Research Intern
+* June 2020 -- August 2020: **Research Intern**
   * Frontier Development Lab, Mountain View, CA
   
-* August 2019 -- August 2020: Advanced Study Program (ASP) Postdoctoral Fellow
+* August 2019 -- August 2020: **Advanced Study Program (ASP) Postdoctoral Fellow**
   * National Center for Atmospheric Research, Boulder, CO
-  * Computational and Information Systems Lab and Mesoscale and Microscale Meteorology Lab
+  * _Computational and Information Systems Lab and Mesoscale and Microscale Meteorology Lab_
   
-* August 2016 -- August 2019: Graduate Research Assistant
+* August 2016 -- August 2019: **Graduate Research Assistant**
   * Central Michigan University, Mount Pleasant, MI
   
-* September 2016 -- November 2017: Broadcast Meteorologist
+* September 2016 -- November 2017: **Broadcast Meteorologist**
   * Fox TV News Channel, Detroit, MI
   
-* October 2010 -- September 2016: Broadcast Meteorologist
+* October 2010 -- September 2016: **Broadcast Meteorologist**
   * Fox News Channel, New York, NY
   
-* August 2009 -- September 2010: Bilingual Broadcast Meteorologist
+* August 2009 -- September 2010: **Bilingual Broadcast Meteorologist**
   * AccuWeather, State College, PA
   
-* August 2008 -- August 2009: Earth and Space Science Middle School Teacher
+* August 2008 -- August 2009: **Earth and Space Science Middle School Teacher**
   * North Broward Academy of Excellence, North Lauderdale, FL
   
 Skills
@@ -74,7 +73,7 @@ Teaching
 Select service and leadership
 ======
 * ASP Postdoc Selection Committee, National Center for Atmospheric Research (2021)
-* Academia Ambassador, Committee for Hispanic and Latinx Advancement, American Meteorological Society (2020 -- Present)
+* Committee for Hispanic and Latinx Advancement, American Meteorological Society (2020 -- Present)
 * Early Career Leadership Academy (ECLA) Planning Committee, American Meteorological Society (2019 -- Present)
-* Early Career Scientist Assembly Steering Committee, National Center for Atmospheric Research (2019 -- Present)
+* Early Career Scientist Assembly (ECSA) Steering Committee, National Center for Atmospheric Research (2019 -- Present)
 * Distinguished Journalism Award Committee, American Meteorological Society (2020)
