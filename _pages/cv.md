@@ -74,6 +74,6 @@ Select service and leadership
 ======
 * ASP Postdoc Selection Committee, National Center for Atmospheric Research (2021)
 * Committee for Hispanic and Latinx Advancement, American Meteorological Society (2020 -- Present)
-* Early Career Leadership Academy (ECLA) Planning Committee, American Meteorological Society (2019 -- Present)
-* Early Career Scientist Assembly (ECSA) Steering Committee, National Center for Atmospheric Research (2019 -- Present)
+* Early Career Leadership Academy Planning Committee, American Meteorological Society (2019 -- Present)
+* Early Career Scientist Assembly Steering Committee, National Center for Atmospheric Research (2019 -- Present)
 * Distinguished Journalism Award Committee, American Meteorological Society (2020)
