@@ -9,11 +9,11 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/    
     
-  - title: "Research"
-    url: /portfolio/
+ # - title: "Research"       ## uncomment this later when ready to add research foci
+ #   url: /portfolio/
         
-  - title: "News"
-    url: /year-archive/
+ # - title: "News"           ## uncomment this later when ready to add news items
+ #   url: /year-archive/
     
   - title: "CV"
     url: /cv/
