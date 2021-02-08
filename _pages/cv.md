@@ -45,26 +45,26 @@ Work experience
 * August 2008 -- August 2009: **Earth and Space Science Middle School Teacher**
   * North Broward Academy of Excellence, North Lauderdale, FL
   
-Select skills
+Selected skills
 ======
 * Python programming
 * Television, radio, and presentation communications
 * Weather Research and Forecasting (WRF) model
 * NOAA HYSPLIT model
 
-Select publications
+Selected publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Select talks
+Selected recent talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Select service and leadership
+Recent service and leadership
 ======
 * ASP Postdoc Selection Committee, National Center for Atmospheric Research (2021)
 * Committee for Hispanic and Latinx Advancement, American Meteorological Society (2020 -- Present)
