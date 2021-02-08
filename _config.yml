@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Maria J. Molina"
+title                    : "Dr. Maria J. "
 title_separator          : "-"
-name                     : &name "Dr. Maria J. Molina"
+name                     : &name "Dr. Molina"
 description              : &description "Research Scientist"
 url                      : https://mariajmolina.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
