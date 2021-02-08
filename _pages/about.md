@@ -31,4 +31,5 @@ dsada
 
 Contact Me
 ------
-I live and work in the Boulder, Colorado area. Email me at molina@ucar.edu.
+I live and work in the Boulder, Colorado area with my maltese, Cumulus. Email me at molina@ucar.edu.
+
