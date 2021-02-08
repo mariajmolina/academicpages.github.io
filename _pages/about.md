@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my page"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -33,4 +33,3 @@ About Me
 I live and work in the Boulder, Colorado area with my maltese, Cumulus. 
 
 ![Photo of Cumulus](https://github.com/mariajmolina/mariajmolina.github.io/blob/master/images/image2.jpeg)
-
