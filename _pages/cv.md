@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**[Complete CV PDF Version](https://staff.ucar.edu/sites/default/files/CVs/MolinaCV.docx%20%281%29.pdf)**
+**[Complete CV (PDF Version)](https://staff.ucar.edu/sites/default/files/CVs/MolinaCV.docx%20%281%29.pdf)**
 
 Education
 ======
