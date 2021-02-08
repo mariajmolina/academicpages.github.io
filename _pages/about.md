@@ -8,32 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist at the National Center for Atmospheric Research, working within the Climate Change Research section of the Climate and Global Dynamics Laboratory. 
+I am a research scientist at the National Center for Atmospheric Research, working within the Cooperative Agreement To Analyze variabiLity, change and predictabilitY in the earth SysTem (CATALYST) and Climate Change Research section of the Climate and Global Dynamics Laboratory. [CATALYST](https://www.cgd.ucar.edu/projects/catalyst/) is a sustained commitment between the Department of Energy (DOE) and the University Corporation for Atmospheric Research (UCAR) to perform foundational research toward advancing a robust understanding of modes of variability using models, observations, and process studies.
 
-Earth system models, statistics, and machine learning for climate science
-======
-dsasd
+[//]: # (Earth system models, statistics, and machine learning for climate science)
+[//]: # (======)
+[//]: # (dsasd)
 
-What are Earth system models?
-------
-fewfw
+[//]: # (What are Earth system models?)
+[//]: # (------)
+[//]: # (fewfw)
 
-**How to learn more**
-foieiwn
+[//]: # (**How to learn more**)
+[//]: # (foieiwn)
 
-What is machine learning?
-------
-wfewef
+[//]: # (What is machine learning?)
+[//]: # (------)
+[//]: # (feewfe)
 
-**How to learn more**
-dsada
+[//]: # (**How to learn more**)
+[//]: # (sfdsf)
 
-
-Contact Me
+About Me
 ------
 I live and work in the Boulder, Colorado area with my maltese, Cumulus. 
-
-Email me at molina@ucar.edu.
 
 ![Photo of Cumulus](https://github.com/mariajmolina/mariajmolina.github.io/blob/master/images/image2.jpeg)
 
