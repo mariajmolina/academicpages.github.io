@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-hello and welcome
+I am a research scientist at the National Center for Atmospheric Research, working within the Climate Change Research section of the Climate and Global Dynamics Laboratory. 
 
 Earth system models, statistics, and machine learning for climate science
 ======
@@ -17,6 +17,7 @@ dsasd
 What are Earth system models?
 ------
 fewfw
+
 **How to learn more**
 foieiwn
 
@@ -28,6 +29,6 @@ wfewef
 dsada
 
 
-Download a copy of my CV
+Contact Me
 ------
-[Complete CV](https://staff.ucar.edu/sites/default/files/CVs/MolinaCV.docx%20%281%29.pdf)
+I live and work in the Boulder, Colorado area. Email me at molina@ucar.edu.
