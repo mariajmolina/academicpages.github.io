@@ -48,7 +48,7 @@ Work experience
 Selected skills
 ======
 * Python programming
-* Television, radio, and presentation communications
+* Television and radio communications
 * Weather Research and Forecasting (WRF) model
 * NOAA HYSPLIT model
 
