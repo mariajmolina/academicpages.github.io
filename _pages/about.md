@@ -32,6 +32,4 @@ About Me
 ------
 I live and work in the Boulder, Colorado area with my maltese, Cumulus. 
 
-![Photo of Cumulus](https://github.com/mariajmolina/mariajmolina.github.io/blob/master/images/molina_headshot.jpeg)
-
 Email me at molina@ucar.edu.
