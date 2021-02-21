@@ -9,18 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+## [Complete CV (PDF Version)](https://staff.ucar.edu/sites/default/files/CVs/MolinaCV.docx%20%281%29.pdf)
 <object width="400" height="500" type="application/pdf" data="/pages/MolinaCV_jan21.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
     <p>PDF cannot be displayed.</p>
 </object>
 
-Education
-======
+
+## Education
 * Ph.D. in Earth and Ecosystem Science Doctoral Program, Central Michigan University, 2019
 * M.A. in Climate and Society, Columbia University, 2015
 * B.S. in Meteorology, Honors in the Major, Minors in Mathematics and Communications, Florida State University, 2008
 
-Work experience
-======
+## Work experience
 * August 2020 -- Present: **Project Scientist I**
   * National Center for Atmospheric Research, Boulder, CO
   * _Climate and Global Dynamics Laboratory, Climate Change Research Section_
@@ -47,27 +47,23 @@ Work experience
 * August 2008 -- August 2009: **Earth and Space Science Middle School Teacher**
   * North Broward Academy of Excellence, North Lauderdale, FL
 
-Selected skills
-======
+## Selected skills
 * Python programming
 * Television and radio communications
 * Weather Research and Forecasting (WRF) model
 * NOAA HYSPLIT model
 
-Peer-reviewed publications
-======
+## Peer-reviewed publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Selected recent talks
-======
+## Selected recent talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Recent service and leadership
-======
+## Recent service and leadership
 * ASP Postdoc Selection Committee, National Center for Atmospheric Research (2021)
 * Committee for Hispanic and Latinx Advancement, American Meteorological Society (2020 -- Present)
 * Early Career Leadership Academy Planning Committee, American Meteorological Society (2019 -- Present)
