@@ -11,7 +11,7 @@ redirect_from:
 
 ## [Complete CV (PDF Version)](https://staff.ucar.edu/sites/default/files/CVs/MolinaCV.docx%20%281%29.pdf)
 <object width="400" height="500" type="application/pdf" data="/pages/MolinaCV_jan21.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
-    <p>It appears you don't have a PDF plugin for this browser. That's okay... you can <a href="/pages/MolinaCV_jan21.pdf" download>click here to
+    <p>It appears you don't have a PDF plugin for this browser. That's okay... you can <a href="/pages/MolinaCV_jan21.pdf" download="Molina">click here to
   download the PDF file.</a></p>
 </object>
 
