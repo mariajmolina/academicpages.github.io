@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<object width="400" height="500" type="application/pdf" data="files/MolinaCV_jan21.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
+<object width="400" height="500" type="application/pdf" data="/pages/MolinaCV_jan21.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
     <p>PDF cannot be displayed.</p>
 </object>
 
