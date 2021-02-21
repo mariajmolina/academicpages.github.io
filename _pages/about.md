@@ -31,3 +31,5 @@ I am a research scientist at the **National Center for Atmospheric Research** ([
 About Me
 ------
 I live and work in the Boulder, Colorado area with my Maltese dog, named Cumulus. 
+
+![](/images/image2.jpeg)
