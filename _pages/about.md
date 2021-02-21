@@ -32,4 +32,4 @@ About Me
 ------
 I live and work in the Boulder, Colorado area with my Maltese dog, named Cumulus. 
 
-![](/images/image2.jpeg)
+![](/images/cumulus_homepage.jpeg)
