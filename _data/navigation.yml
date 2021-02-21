@@ -12,8 +12,8 @@ main:
  # - title: "Research"       ## uncomment this later when ready to add research foci
  #   url: /portfolio/
         
- # - title: "News"           ## uncomment this later when ready to add news items
- #   url: /year-archive/
+  - title: "News"           ## uncomment this later when ready to add news items
+    url: /year-archive/
     
   - title: "CV"
     url: /cv/
