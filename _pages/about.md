@@ -28,6 +28,12 @@ I am a research scientist at the **National Center for Atmospheric Research** ([
 [//]: # (**How to learn more**)
 [//]: # (sfdsf)
 
+[//]: Research
+[//]: ------
+[//]: My research is conducted with a highly collaborative team, made up of leading-senior to early-career scientists. I collaborate on research that spans across three primary areas: (i) extending Earth system predictability of modes of variability and their associated impacts, (ii) understanding modes of variability and their interactions, and (iii) detection of mesoscale to synoptic scale phenomena associated with precipitation extremes and their connection to modes of variability. I use tools include Earth system models, machine learning and deep learning, and signal processing methods.
+
+[//]: My research background 
+
 About Me
 ------
 I live and work in the Boulder, Colorado area with my Maltese dog, named Cumulus. 
