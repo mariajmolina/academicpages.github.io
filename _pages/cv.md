@@ -44,7 +44,7 @@ Work experience
   
 * August 2008 -- August 2009: **Earth and Space Science Middle School Teacher**
   * North Broward Academy of Excellence, North Lauderdale, FL
-  
+
 Selected skills
 ======
 * Python programming
@@ -57,13 +57,13 @@ Peer-reviewed publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Selected recent talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Recent service and leadership
 ======
 * ASP Postdoc Selection Committee, National Center for Atmospheric Research (2021)
