@@ -4,6 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Molina, M. J.**, A. Hu, G. A. Meehl (under review): Response of Global SSTs and ENSO to the Atlantic and Pacific Meridional Overturning Circulations. Journal of Climate.
+
+Venzor-Cardenas, I., **M. J. Molina**, M. Slipski, N. Ahmed, M. Cheung, C. Tillier, S. Edgington, and G. Renard (under review): Severe weather prediction using the Geostationary Lightning Mapper and a time series model. Neural Computing and Applications.
+
+**Molina, M. J.**, D. J. Gagne, and A. F. Prein (under review): Deep learning classification of potentially severe convective storms in a changing climate. Earth and Space Science.
+
 Poujol, B., Prien, A. F., **Molina, M. J.**, & Muller, C. (2021). Dynamic and thermodynamic impacts of climate change on organized convection in Alaska. Climate Dynamics, 1-25. [Link](https://link.springer.com/article/10.1007/s00382-020-05606-7)
 
 Ahmed, N., Slipski, M., Venzor-Cardenas, I., **Molina, M. J.**, Senay, G., Cheung, M., Tillier, C., Edgington, S., Renard, G. (2020): Leveraging Lightning with Convolutional Recurrent AutoEncoder and ROCKET for Severe Weather Detection. Thirty-fourth Conference on Neural Information Processing Systems (NeurIPS 2020), AI for Earth Sciences Workshop. [Link](https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_16.pdf)
