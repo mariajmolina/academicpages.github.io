@@ -48,25 +48,25 @@ redirect_from:
 * August 2008 -- August 2009: **Earth and Space Science Middle School Teacher**
   * North Broward Academy of Excellence, North Lauderdale, FL
 
-## Selected skills
-* Python programming
-* Television and radio communications
-* Weather Research and Forecasting (WRF) model
-* NOAA HYSPLIT model
+%## Selected skills
+%* Python programming
+%* Television and radio communications
+%* Weather Research and Forecasting (WRF) model
+%* NOAA HYSPLIT model
 
-## Peer-reviewed publications
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+%## Peer-reviewed publications
+%  <ul>{% for post in site.publications reversed %}
+%    {% include archive-single-cv.html %}
+%  {% endfor %}</ul>
 
-## Selected recent talks
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+%## Selected recent talks
+%  <ul>{% for post in site.talks reversed %}
+%    {% include archive-single-talk-cv.html %}
+%  {% endfor %}</ul>
 
-## Recent service and leadership
-* ASP Postdoc Selection Committee, National Center for Atmospheric Research (2021)
-* Committee for Hispanic and Latinx Advancement, American Meteorological Society (2020 -- Present)
-* Early Career Leadership Academy Planning Committee, American Meteorological Society (2019 -- Present)
-* Early Career Scientist Assembly Steering Committee, National Center for Atmospheric Research (2019 -- Present)
-* Distinguished Journalism Award Committee, American Meteorological Society (2020)
+%## Recent service and leadership
+%* Scientific Appointment Modernization Co-Design Team, National Center for Atmospheric Research (2021 -- Present)
+%* ASP Postdoc Selection Committee, National Center for Atmospheric Research (2021)
+%* Committee for Hispanic and Latinx Advancement, American Meteorological Society (2020 -- Present)
+%* Early Career Leadership Academy Planning Committee, American Meteorological Society (2019 -- Present)
+%* Early Career Scientist Assembly Steering Committee, National Center for Atmospheric Research (2019 -- Present)
