@@ -4,7 +4,21 @@ permalink: /publications/
 author_profile: true
 ---
 
+Poujol, B., Prien, A. F., **Molina, M. J.**, & Muller, C. (2021). Dynamic and thermodynamic impacts of climate change on organized convection in Alaska. Climate Dynamics, 1-25. [Link](https://link.springer.com/article/10.1007/s00382-020-05606-7)
+
+Ahmed, N., Slipski, M., Venzor-Cardenas, I., **Molina, M. J.**, Senay, G., Cheung, M., Tillier, C., Edgington, S., Renard, G. (2020): Leveraging Lightning with Convolutional Recurrent AutoEncoder and ROCKET for Severe Weather Detection. Thirty-fourth Conference on Neural Information Processing Systems (NeurIPS 2020), AI for Earth Sciences Workshop. [Link](https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_16.pdf)
+
+**Molina, M. J.**, Allen, J. T., & Prein, A. F. (2020). Moisture Attribution and Sensitivity Analysis of a Winter Tornado Outbreak. Weather and Forecasting, 35(4), 1263-1288. [Link](https://journals.ametsoc.org/view/journals/wefo/35/4/wafD190240.xml)
+
+**Molina, M. J.**, & Allen, J. T. (2020). Regionally-stratified tornadoes: Moisture source physical reasoning and climate trends. Weather and Climate Extremes, 28, 100244. [Link](https://www.sciencedirect.com/science/article/pii/S2212094719301781)
+
+**Molina, M. J.**, & Allen, J. T. (2019). On the moisture origins of tornadic thunderstorms. Journal of Climate, 32(14), 4321-4346. [Link](https://journals.ametsoc.org/view/journals/clim/32/14/jcli-d-18-0784.1.xml)
+
 **Molina, M. J.**, Allen, J. T., & Gensini, V. A. (2018). The Gulf of Mexico and ENSO influence on subseasonal and seasonal CONUS winter tornado variability. Journal of Applied Meteorology and Climatology, 57(10), 2439-2463. [Link](https://journals.ametsoc.org/view/journals/apme/57/10/jamc-d-18-0046.1.xml)
+
+Allen, J. T., **Molina, M. J.**, & Gensini, V. A. (2018). Modulation of annual cycle of tornadoes by El Niño–Southern Oscillation. Geophysical Research Letters, 45(11), 5708-5717. [Link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL077482)
+
+**Molina, M. J.**, Timmer, R. P., & Allen, J. T. (2016). Importance of the Gulf of Mexico as a climate driver for US severe thunderstorm activity. Geophysical Research Letters, 43(23), 12-295. [Link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL071603)
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
