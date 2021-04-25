@@ -12,8 +12,6 @@ Venzor-Cardenas, I., **Molina, M. J.**, Slipski, M., Ahmed, N., Cheung, M., Till
 
 Poujol, B., Prien, A. F., **Molina, M. J.**, & Muller, C. (2021). Dynamic and thermodynamic impacts of climate change on organized convection in Alaska. Climate Dynamics, 1-25. [Link](https://link.springer.com/article/10.1007/s00382-020-05606-7)
 
-Ahmed, N., Slipski, M., Venzor-Cardenas, I., **Molina, M. J.**, Senay, G., Cheung, M., Tillier, C., Edgington, S., Renard, G. (2020): Leveraging Lightning with Convolutional Recurrent AutoEncoder and ROCKET for Severe Weather Detection. Thirty-fourth Conference on Neural Information Processing Systems (NeurIPS 2020), AI for Earth Sciences Workshop. [Link](https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_16.pdf)
-
 **Molina, M. J.**, Allen, J. T., & Prein, A. F. (2020). Moisture Attribution and Sensitivity Analysis of a Winter Tornado Outbreak. Weather and Forecasting, 35(4), 1263-1288. [Link](https://journals.ametsoc.org/view/journals/wefo/35/4/wafD190240.xml)
 
 **Molina, M. J.**, & Allen, J. T. (2020). Regionally-stratified tornadoes: Moisture source physical reasoning and climate trends. Weather and Climate Extremes, 28, 100244. [Link](https://www.sciencedirect.com/science/article/pii/S2212094719301781)
