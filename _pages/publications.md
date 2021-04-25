@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Peer-reviewed publications"
 permalink: /publications/
 author_profile: true
