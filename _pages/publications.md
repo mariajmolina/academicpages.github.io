@@ -8,7 +8,7 @@ author_profile: true
 
 Venzor-Cardenas, I., **Molina, M. J.**, Slipski, M., Ahmed, N., Cheung, M., Tillier, C., Edgington, S., and Renard G. (under review): Severe weather prediction using the Geostationary Lightning Mapper and a time series model. Neural Computing and Applications.
 
-**Molina, M. J.**, Gagne, D. J., and Prein A. F. (under review): Deep learning classification of potentially severe convective storms in a changing climate. Earth and Space Science.
+**Molina, M. J.**, Gagne, D. J., and Prein A. F. (under review): A benchmark to test generalization capabilities of deep learning methods to classify severe convective storms in a changing climate. Earth and Space Science.
 
 Poujol, B., Prien, A. F., **Molina, M. J.**, & Muller, C. (2021). Dynamic and thermodynamic impacts of climate change on organized convection in Alaska. Climate Dynamics, 1-25. [Link](https://link.springer.com/article/10.1007/s00382-020-05606-7)
 
