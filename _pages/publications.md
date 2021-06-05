@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Hu, A., G. A. Meehl, N. Rosenbloom, **M. J. Molina**, and G. Strand (under review): Variations in meridional overturning circulation and their influence on global ocean. Journal of Climate.
+
 **Molina, M. J.**, Hu, A., Meehl G. A. (under review): Response of Global SSTs and ENSO to the Atlantic and Pacific Meridional Overturning Circulations. Journal of Climate.
 
 Venzor-Cardenas, I., **Molina, M. J.**, Slipski, M., Ahmed, N., Cheung, M., Tillier, C., Edgington, S., and Renard G. (under review): Severe weather prediction using the Geostationary Lightning Mapper and a time series model. Neural Computing and Applications.
