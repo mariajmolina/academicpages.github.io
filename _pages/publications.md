@@ -12,7 +12,7 @@ Venzor-Cardenas, I., **Molina, M. J.**, Slipski, M., Ahmed, N., Cheung, M., Till
 
 **Molina, M. J.**, Gagne, D. J., and Prein A. F. (under review): A benchmark to test generalization capabilities of deep learning methods to classify severe convective storms in a changing climate. Earth and Space Science.
 
-Poujol, B., Prien, A. F., **Molina, M. J.**, & Muller, C. (2021). Dynamic and thermodynamic impacts of climate change on organized convection in Alaska. Climate Dynamics, 1-25. [Link](https://link.springer.com/article/10.1007/s00382-020-05606-7)
+Poujol, B., Prein, A. F., **Molina, M. J.**, & Muller, C. (2021). Dynamic and thermodynamic impacts of climate change on organized convection in Alaska. Climate Dynamics, 1-25. [Link](https://link.springer.com/article/10.1007/s00382-020-05606-7)
 
 **Molina, M. J.**, Allen, J. T., & Prein, A. F. (2020). Moisture Attribution and Sensitivity Analysis of a Winter Tornado Outbreak. Weather and Forecasting, 35(4), 1263-1288. [Link](https://journals.ametsoc.org/view/journals/wefo/35/4/wafD190240.xml)
 
