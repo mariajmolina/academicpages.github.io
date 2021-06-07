@@ -17,9 +17,15 @@ Venzor-Cardenas, I., **Molina, M. J.**, Slipski, M., Ahmed, N., Cheung, M., Till
 
 Poujol, B., Prein, A. F., **Molina, M. J.**, & Muller, C. (2021). Dynamic and thermodynamic impacts of climate change on organized convection in Alaska. Climate Dynamics, 1-25. [Link](https://link.springer.com/article/10.1007/s00382-020-05606-7)
 
+
+<span style="color:#2e62e6">**2020**</span>
+
 **Molina, M. J.**, Allen, J. T., & Prein, A. F. (2020). Moisture Attribution and Sensitivity Analysis of a Winter Tornado Outbreak. Weather and Forecasting, 35(4), 1263-1288. [Link](https://journals.ametsoc.org/view/journals/wefo/35/4/wafD190240.xml)
 
 **Molina, M. J.**, & Allen, J. T. (2020). Regionally-stratified tornadoes: Moisture source physical reasoning and climate trends. Weather and Climate Extremes, 28, 100244. [Link](https://www.sciencedirect.com/science/article/pii/S2212094719301781)
+
+
+<span style="color:#2e62e6">**2016-2019**</span>
 
 **Molina, M. J.**, & Allen, J. T. (2019). On the moisture origins of tornadic thunderstorms. Journal of Climate, 32(14), 4321-4346. [Link](https://journals.ametsoc.org/view/journals/clim/32/14/jcli-d-18-0784.1.xml)
 
