@@ -4,13 +4,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+<body>
+  <p style="color:#FF0000";>2021</p>
+</body>
+
 Hu, A., G. A. Meehl, N. Rosenbloom, **M. J. Molina**, and G. Strand (under review): Variations in meridional overturning circulation and their influence on global ocean. Journal of Climate.
 
 **Molina, M. J.**, Hu, A., Meehl G. A. (under review): Response of Global SSTs and ENSO to the Atlantic and Pacific Meridional Overturning Circulations. Journal of Climate.
 
 Venzor-Cardenas, I., **Molina, M. J.**, Slipski, M., Ahmed, N., Cheung, M., Tillier, C., Edgington, S., and Renard G. (under review): Severe weather prediction using the Geostationary Lightning Mapper and a time series model. Neural Computing and Applications.
 
-**Molina, M. J.**, Gagne, D. J., and Prein A. F. (under review): A benchmark to test generalization capabilities of deep learning methods to classify severe convective storms in a changing climate. Earth and Space Science.
+**Molina, M. J.**, Gagne, D. J., and Prein A. F. (under review): A benchmark to test generalization capabilities of deep learning methods to classify severe convective storms in a changing climate. Earth and Space Science. [Preprint](https://www.essoar.org/doi/10.1002/essoar.10504498.2)
 
 Poujol, B., Prein, A. F., **Molina, M. J.**, & Muller, C. (2021). Dynamic and thermodynamic impacts of climate change on organized convection in Alaska. Climate Dynamics, 1-25. [Link](https://link.springer.com/article/10.1007/s00382-020-05606-7)
 
