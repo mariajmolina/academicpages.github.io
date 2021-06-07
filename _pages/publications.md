@@ -1,10 +1,8 @@
 ---
-title: "Publications"
+title: "Peer-Reviewed Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-## Peer-Reviewed
 
 ## <span style="color:#5f76b0">**2021**</span>
 
