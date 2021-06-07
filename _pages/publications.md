@@ -25,7 +25,7 @@ Poujol, B., Prein, A. F., **Molina, M. J.**, & Muller, C. (2021). Dynamic and th
 **Molina, M. J.**, & Allen, J. T. (2020). Regionally-stratified tornadoes: Moisture source physical reasoning and climate trends. Weather and Climate Extremes, 28, 100244. [Link](https://www.sciencedirect.com/science/article/pii/S2212094719301781)
 
 
-<span style="color:#2e62e6">**2016--2019**</span>
+<span style="color:#2e62e6">**2016 - 2019**</span>
 
 **Molina, M. J.**, & Allen, J. T. (2019). On the moisture origins of tornadic thunderstorms. Journal of Climate, 32(14), 4321-4346. [Link](https://journals.ametsoc.org/view/journals/clim/32/14/jcli-d-18-0784.1.xml)
 
