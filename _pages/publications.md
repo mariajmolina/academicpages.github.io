@@ -4,7 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-<span style="color:blue">some *blue* text</span>
+
+<span style="color:#2e62e6">**2021**</span>
 
 Hu, A., G. A. Meehl, N. Rosenbloom, **M. J. Molina**, and G. Strand (under review): Variations in meridional overturning circulation and their influence on global ocean. Journal of Climate.
 
