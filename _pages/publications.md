@@ -10,7 +10,7 @@ author_profile: true
 
 **Molina, M. J.**, D. J. Gagne, and A. F. Prein (under review): A benchmark to test generalization capabilities of deep learning methods to classify severe convective storms in a changing climate. Earth and Space Science. [Preprint](https://www.essoar.org/doi/10.1002/essoar.10504498.2)
 
-Hu, A., G. A. Meehl, N. Rosenbloom, **M. J. Molina**, and G. Strand (Accepted): Variations in meridional overturning circulation and their influence on global ocean. Journal of Climate.
+Hu, A., G. A. Meehl, N. Rosenbloom, **M. J. Molina**, and G. Strand (Accepted): The influence of variability in meridional overturning on global ocean circulation. Journal of Climate.
 
 Poujol, B., A. F. Prein, **M. J. Molina**, & C. Muller (2021). Dynamic and thermodynamic impacts of climate change on organized convection in Alaska. Climate Dynamics, 1-25. [Link](https://link.springer.com/article/10.1007/s00382-020-05606-7)
 
